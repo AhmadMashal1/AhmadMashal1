@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a full stack developer who loves building crea
 ## 🚀 A Bit About Me
 
 - 🧑‍💻 Software enthusiast with a passion for both frontend and backend development
-- 🌍 Based in [Your City or Country]
+- 🌍 Based in Toronto,Ontario
 - 🎯 Always exploring new technologies and best practices
 
 ## 🛠️ My Toolbox
@@ -15,7 +15,6 @@ Welcome to my GitHub profile! I'm a full stack developer who loves building crea
 - JavaScript, TypeScript, Python, C, C++
 - React.js, Next.js, Node.js, Express.js
 - HTML, CSS, Tailwind CSS
-- React Native, Expo
 - Flask
 
 **Databases:**
