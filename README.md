@@ -1,37 +1,18 @@
+# Hi, I'm Ahmad Mashal
 
-# Hey there! 👋 I'm Ahmad Mashal
+Full stack developer focused on building polished, user-first web apps.
 
-Welcome to my GitHub profile! I'm a full stack developer who loves building creative, user-focused web applications.
+## About
+- Love shipping both frontend and backend.
+- Based in Toronto, Ontario.
+- Always exploring new tools and best practices.
 
-## 🚀 A Bit About Me
+## Stack
+- Languages: JavaScript, TypeScript, Python, C, C++
+- Frameworks: React, Next.js, Node.js/Express, Flask
+- Databases: MongoDB, MySQL, PostgreSQL, SQL Server
+- Tools: Git/GitHub, Docker, VS Code, Firebase, Jira, Visual Paradigm
+- Methods: Agile/Scrum/Kanban, TDD, XP
 
-- 🧑‍💻 Software enthusiast with a passion for both frontend and backend development
-- 🌍 Based in Toronto,Ontario
-- 🎯 Always exploring new technologies and best practices
-
-## 🛠️ My Toolbox
-
-**Languages & Frameworks:**
-- JavaScript, TypeScript, Python, C, C++
-- React.js, Next.js, Node.js, Express.js
-- HTML, CSS, Tailwind CSS
-- Flask
-
-**Databases:**
-- MongoDB, MySQL, PostgreSQL, SQL Server
-
-**Tools & Platforms:**
-- Git, GitHub, Docker, VS Code,
-- Firebase
-- Jira, Visual Paradigm, Swimlane
-
-**Methodologies:**
-- Agile, Scrum, Kanban, TDD, XP
-
----
-
-## 🤝 Let's Connect
-
-I'm open to new projects, internships, and collaborations. If you have an idea or just want to chat about tech, feel free to reach out!
-
-<!-- Drop me a message or connect on LinkedIn! -->
+## Connect
+Open to projects, internships, and collaborations. Reach out anytime!
